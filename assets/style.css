@@ -1,0 +1,63 @@
+/*Estilos index.html*/
+.center{
+    text-align: center;
+
+}
+.container{
+    display: flex;
+    flex-flow: row ;
+    justify-content: center;
+    align-items: center;
+}
+#menu li{
+    display: inline;
+    padding: 12px;
+    background-color: rgb(200, 22, 200);
+    border-radius: 10px;
+    box-shadow:rgb(80, 17, 80) ;
+}
+
+#menu li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+#menu li a:hover{
+    color:white;
+}
+.p-30{
+    font-size: 20px;
+    justify-content: center;
+}
+.bd-50{
+    border-radius: 40px;
+    width: 380px;
+    height: 380px;
+}
+.p-20{
+    padding: 20px;
+}
+.fundo{
+    background-color: rgb(224, 212, 212);
+    border-radius: 10px;
+    text-align: justify;
+    width: 380px;
+    height: 380px;
+}
+.pd-15{
+    padding: 15px;
+    padding-bottom: 10px;
+}
+body{
+    background-color: rgb(251, 231, 234);
+}
+.tm {
+    width: 30px;
+    height: 30px;
+    padding: 15px;
+}
+
+/* Estilos da página de contato*/
+.mg-50{
+    margin: 50px;
+}
