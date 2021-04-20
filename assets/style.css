@@ -28,6 +28,7 @@
 .p-30{
     font-size: 20px;
     justify-content: center;
+    padding-right: 15px;
 }
 .bd-50{
     border-radius: 40px;
@@ -60,4 +61,12 @@ body{
 /* Estilos da página de contato*/
 .mg-50{
     margin: 50px;
+}
+.p-form{
+    padding-left: 20px;
+}
+.tm-ht{
+    display: block;
+    width: 100%;
+    margin-top: 15px;
 }
